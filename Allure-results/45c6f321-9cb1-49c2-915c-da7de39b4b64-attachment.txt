@@ -1,0 +1,11 @@
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:50 Testcase test_Signup_002 is started
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:52 Opening browser
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:55 UserzUjXxg
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:57 Entering the Password
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:59 UsertJ7gpj@gmail.com
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:61 4945720768
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:63 Click on Create user button
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:65 Checking user creation
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:68 Testcase test_Signup_002 is passed
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:69 Taking screenshot
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:71 Testcase test_Signup_002 is completed
